@@ -2,7 +2,7 @@ package com.cl.common.result;
 
 /**
  * @Description 统一异常类
- * @Author Chenglong
+ * @Author Daniel
  * @Creat At 2019-11-22 14:51
  */
 public enum ExceptionMsg {
