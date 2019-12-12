@@ -15,7 +15,7 @@ import java.util.Map;
 public class HelloController {
 
     /**
-     * 返回字符串
+     * return string
      */
     @GetMapping("/string")
     public DataResponse string(){
@@ -24,7 +24,7 @@ public class HelloController {
     }
 
     /**
-     * 返回对象
+     * return object
      */
     @GetMapping("/object")
     public DataResponse object(){
@@ -33,7 +33,7 @@ public class HelloController {
     }
 
     /**
-     * 返回map
+     * return map
      */
     @GetMapping("/map")
     public DataResponse map(){

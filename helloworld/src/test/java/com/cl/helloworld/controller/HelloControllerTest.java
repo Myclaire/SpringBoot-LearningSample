@@ -16,7 +16,7 @@ import org.springframework.web.context.WebApplicationContext;
 
 /**
  * @Description test for HelloController
- * @Author Chenglong
+ * @Author Daniel
  * @Creat At 2019-12-12 11:36
  */
 @RunWith(SpringRunner.class)

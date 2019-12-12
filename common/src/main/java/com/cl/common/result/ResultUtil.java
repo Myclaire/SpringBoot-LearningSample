@@ -2,10 +2,11 @@ package com.cl.common.result;
 
 import java.util.List;
 import java.util.Map;
+
 /**
  * @Description util for result
- * @Author Chenglong
- * @Creat At 2019-12-11 18:50
+ * @Author Daniel
+ * @Creat At 2019-12-12 14:57
  */
 public class ResultUtil {
 
